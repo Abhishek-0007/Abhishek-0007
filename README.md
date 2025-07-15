@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek Jha</h1>
-<h3 align="center">As a dynamic and versatile Software Development Engineer with over 1.5 years of experience in the banking and finance industry, I bring expertise in .NET Core backend development, Android app development, and a strong foundation in software engineering principles.</h3>
+<h3 align="center">As a dynamic and versatile Software Development Engineer with over 3 years of experience in the banking and finance industry, I bring expertise in .NET Core backend development, Android app development, and a strong foundation in software engineering principles.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek-0007&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek-0007" /> </p>
 
